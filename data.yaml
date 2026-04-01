@@ -1,0 +1,4 @@
+train: /home/devil/ppe_project/train/images
+val: /home/devil/ppe_project/valid/images
+nc: 6
+names: ['Gloves', 'Hard_hat', 'Mask', 'Person', 'Safety_boots', 'Vest']
